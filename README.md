@@ -5,4 +5,4 @@ Data Cleaning
 Exploratory analysis
 Conclusion
 Investigation
-The project provided in jupyter notebook, and HTML.
+The project provided in jupyter notebook, and HTML and python is used.
