@@ -3,7 +3,8 @@
 
 ### Introduction
 
-Analysis two questions on the movies dataset, investigate them into data analysis steps and answer the quesions
+• Investigated the movie dataset using the data analysis steps
+• Answered questions on the dataset
 
 ### Steps
 
